@@ -1,0 +1,22 @@
+@CHARSET "US-ASCII";
+
+.autocomplete-suggestions { 
+	border: 1px solid #999; 
+	background: #FFF;
+	height:auto;
+	baackground-opacity: 0.3;
+	color: #808080; 
+	}
+.autocomplete-suggestion { 
+	padding: 3px 3px; 
+	white-space: nowrap; 
+	overflow: hidden; 
+	font-size:12px
+	}
+.autocomplete-selected { 
+	background: #F0F0F0; 
+	}
+.autocomplete-suggestions strong { 
+	font-weight: bold; 
+	color: black; 
+	}
